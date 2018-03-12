@@ -1,0 +1,9 @@
+target/
+ 
+.settings/
+.project
+.classpath
+.tern-project
+
+Admin-User guide.docx
+Admin-User guide.old.pdf
